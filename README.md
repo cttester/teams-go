@@ -5,10 +5,7 @@
 Maak je ook wel eens mee dat collega's of jij zelf niet of te laat opdagen voor een videoconferentie? Ondanks dat er uitnodidingen zijn verstuurd via mail of andere kanalen? Als je Teams voor de communicatie gebruikt, helpt misschien deze *Teams Reminder*. In een frontend voor de webbrowser kun je herinneringen instellen, die op de ingestelde tijdsduur tot de gebeurtenis automatisch worden verzonden naar een Teams-kanaal of -chat. Een in Go geschreven webservice zorgt daar op de achtegrond voor.
 
 ![goweb1-frontend](https://github.com/user-attachments/assets/20c14452-d54b-47af-9b46-64bbc29d316f)
-
-
-![In het frontend geef je een boodschap en datum op en stel je de tijdsduur in voor de automatische herinneringen.](![goweb1-frontend](https://github.com/user-attachments/assets/a8478d72-9a99-422e-a759-b31d20ddf543)
-)
+[In het frontend geef je een boodschap en datum op en stel je de tijdsduur in voor de automatische herinneringen.]
 
 # Gebruiksvoorwaarden
 
